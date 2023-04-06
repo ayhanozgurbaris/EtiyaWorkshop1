@@ -3,7 +3,7 @@ public class Main {
         
         DortIslem dortIslem= new DortIslem();
  
-        System.out.println(dortIslem.topla(2,3));
+        System.out.println(dortIslem.topla(5,6));
 
     }
 }
